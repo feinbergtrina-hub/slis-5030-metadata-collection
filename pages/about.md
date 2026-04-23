@@ -14,14 +14,14 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection is a photo gallery of my family dog Bella, an 18 year old toy poodle. This collection was built with the intent of chronologizing her life and displaying what aging looks like in small dogs. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## About Bella
+
+Bella was born Janurary 11, 2008. As a puppy she had a big attitude, and put up with me dressing her up and doing photoshoots. As she grew alongside us, she mellowed out but still retained her puppy silliness. Now a super senior, Bella continues to have a high quality of life due in part to her strong heart, but also due to the care of my family. She now deals with arthritis and loss of sight and hearing, but she still manages to boss everyone around and demand a nightly game of tag. 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
