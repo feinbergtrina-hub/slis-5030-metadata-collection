@@ -11,4 +11,4 @@ type,Type,
 file size, File Size
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,
+rightsstatement,Rights Statement,,true
