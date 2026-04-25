@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: SLIS 5030 Metadata Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A photo gallery of Bella the toy poodle. 
+tagline: A Photo Gallery of Bella the Toy Poodle. 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: Welcome to my project! Enjoy pictures of my family dog throughout the years! 
+description: A collection of my family dog, Bella the toy poodle, throughout the years.  
 author: Katrina Feinberg
 
 ##########
