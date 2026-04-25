@@ -6,8 +6,9 @@ description,Description,
 subject,Subjects,true
 age,Age
 source,Source
-identifier,Source Identifier,,
+filename, File Name
 type,Type,
+file size, File Size
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
+rightsstatement,Rights Statement,,
